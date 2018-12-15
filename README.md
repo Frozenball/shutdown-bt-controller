@@ -1,5 +1,5 @@
 # shutdown-bt-controller
-Shutdown Bluetooth controllers if not in use.
+Shutdowns Bluetooth controllers if they are not used in N minutes. This works at least with DS4.
 
 ## Installation
 
